@@ -1,3 +1,17 @@
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  </a>
+  <a href="https://github.com/sponsors/iamunixtz">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="GitHub Sponsors">
+  </a>
+  <a href="https://github.com/iamunixtz/Url-Inspector/stargazers">
+    <img src="https://img.shields.io/github/stars/iamunixtz/Url-Inspector.svg?style=for-the-badge" alt="Stars">
+  </a>
+  <a href="https://github.com/iamunixtz/Url-Inspector/issues">
+    <img src="https://img.shields.io/github/issues/iamunixtz/Url-Inspector.svg?style=for-the-badge" alt="Issues">
+  </a>
+  
 # Url-Inspector
 This is simple automation tool used to scan large bulk of url at the same time is it available or move to new address.
 
