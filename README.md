@@ -29,7 +29,7 @@ cd Url-Inspector
 pip install -r requirements.txt
 python url-inspector -h
 ```
-#Installation On Kali Linux
+# Installation On Kali Linux
 ```bash
 pkg update
 pkg install python3
