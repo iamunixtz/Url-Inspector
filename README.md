@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/github/issues/iamunixtz/Url-Inspector.svg?style=for-the-badge" alt="Issues">
   </a>
 
-![ Banner](https://github.com/iamunixtz/Url-Inspector/blob/main/URLPNG.png)
+![ Banner](https://github.com/iamunixtz/Url-Inspector/blob/main/URLIPNG.png)
   
 # Url-Inspector
 This is simple automation tool used to scan large bulk of url at the same time is it available or move to new address.
